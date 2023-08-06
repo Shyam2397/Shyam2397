@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" height="400px" src="https://github.com/Shyam2397/Shyam2397/assets/130961018/220f8783-cc35-43b0-a3b5-5bb3ef45a394">
+<img align="center" alt="coding" width="100%" height="380px" src="https://github.com/Shyam2397/Shyam2397/assets/130961018/220f8783-cc35-43b0-a3b5-5bb3ef45a394">
 <h1 align="center">Hi 👋, I'm Shyam sundar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
