@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shyam sundar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p>A highly motivated and adaptable professional seeking to transition into a new career in the Software profession. I am eager to leverage my transferable skills and passion for the IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A highly motivated and adaptable professional seeking to transition into a new career in the Software profession. I am eager to leverage my transferable skills and passion for the IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. I am committed to continuous learning and development, and excited to embrace new challenges and opportunities in my career transition.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam2397&label=Profile%20views&color=0e75b6&style=flat" alt="shyam2397" /> </p>
 
